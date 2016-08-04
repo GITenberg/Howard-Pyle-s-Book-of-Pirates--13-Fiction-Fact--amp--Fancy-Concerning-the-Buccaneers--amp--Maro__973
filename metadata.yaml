@@ -1,0 +1,31 @@
+_repo: Howard-Pyle-s-Book-of-Pirates--13-Fiction-Fact--amp--Fancy-Concerning-the-Buccaneers--amp--Maro__973
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2006-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories, American'
+- !lcsh 'Spanish Main -- Fiction'
+- !lcsh 'Buccaneers -- Fiction'
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Historical fiction, American'
+- !lcc 'PS'
+- GITenberg
+title: "Howard Pyle's Book of Pirates\r\nFiction, Fact & Fancy Concerning the Buccaneers\
+  \ & Marooners of the Spanish Main"
+url: http://www.gutenberg.org/ebooks/973
