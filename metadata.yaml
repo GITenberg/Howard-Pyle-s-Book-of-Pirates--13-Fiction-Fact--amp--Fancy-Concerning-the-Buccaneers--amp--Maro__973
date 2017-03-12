@@ -1,5 +1,8 @@
 _repo: Howard-Pyle-s-Book-of-Pirates--13-Fiction-Fact--amp--Fancy-Concerning-the-Buccaneers--amp--Maro__973
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pyle, Howard
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/491
     wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/973#Howard-Pyle-s-Book-of-Pirates--13-Fiction-Fact--amp--Fancy-Concerning-the-Buccaneers--amp--Maro_
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2006-02-05'
 gutenberg_type: Text
